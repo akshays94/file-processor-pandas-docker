@@ -25,3 +25,13 @@ In the app folder, create a new folder called `files` and add all the files here
 ```
 
 In the script.py, to access `file1.xls` use this path `./files/file1.xls`.
+
+
+## Writing script
+
+Write your script in the `run()` function in the `script.py` file.
+
+```python
+def run():
+  ... Your script here ...
+```
